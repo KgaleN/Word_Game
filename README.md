@@ -7,6 +7,7 @@ Installation
 To install Word Game, follow these steps:
 
 1 Clone the project repository to your local machine.
+
 2 Open Android Studio and select "Open an existing Android Studio project".
 3 Navigate to the project directory and select the "build.gradle" file.
 4 Android Studio will automatically download any necessary dependencies.
